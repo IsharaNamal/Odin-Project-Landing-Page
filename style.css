@@ -1,0 +1,187 @@
+body {
+    margin: 0;
+    background-color: #1f2937;
+}
+
+.flex-bx {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 100px;
+    background-color: #1f2937;
+}
+
+.nav-content {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+}
+
+.item {
+    padding: 10px;
+    width: 100px;
+    padding-top: 30px;
+    color: #E5E7EB;
+}
+
+.logo-img {
+    width: 140px;
+    height: 100px;
+}
+
+.h-flex {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #1f2937;
+}
+
+.title {
+    color: #f9faf8;
+    font-size: 48px;
+    padding-top: 40px;
+    font-weight: bolder;
+    margin: 0;
+}
+
+.logo {
+    align-items: left;
+
+}
+
+.sub-text {
+    font-size: 18px;
+    color: #999ba1;
+    padding-bottom: 15px;
+}
+
+.s-button {
+    background-color: #3882f6;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.h-img {
+    width: 450px;
+    height: 350px;
+    padding-right: 50px;
+}
+
+.slides {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 150px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+
+}
+
+.workouts {
+    width: 250px;
+    height: 150px;
+    border-color: black;
+    color: black;
+    border-radius: 10px;
+    font-size: 20px;
+    border-width: 5px;
+    margin: 0;
+    padding: 0;
+    border-top-style: groove;
+    border-left-style: groove;
+}
+
+.Meal-Plan {
+    width: 250px;
+    height: 150px;
+    border-color: black;
+    border-width: 5px;
+    color: black;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 0;
+    border-top-style: groove;
+    border-left-style: groove;
+}
+
+.Shedule {
+    width: 250px;
+    height: 150px;
+    border-color: black;
+    color: black;
+    border-radius: 10px;
+    font-size: 20px;
+    border-width: 5px;
+    padding: 0;
+    border-top-style: groove;
+    border-left-style: groove;
+}
+
+.Supplements {
+    width: 250px;
+    height: 150px;
+    border-color: black;
+    color: black;
+    border-radius: 10px;
+    font-size: 20px;
+    border-width: 5px;
+    padding: 0;
+    border-top-style: groove;
+    border-left-style: groove;
+}
+
+.part2 {
+    background-color: #e5e7eb;
+}
+
+.part2-h {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+.w-img {
+    width: 242px;
+    height: 140px;
+}
+
+.m-img {
+    width: 242px;
+    height: 140px;
+}
+
+.s-img {
+    width: 242px;
+    height: 140px;
+}
+
+.su-img {
+    width: 242px;
+    height: 140px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.quotes {
+    font-size: 25px;
+    padding-left: 250px;
+    padding-right: 200px;
+    background-color: #bab8e0;
+    padding-top: 40px;
+}
+
+.q-name {
+    padding-left: 740px;
+    padding-top: 10px;
+    font-weight: bold;
+}
